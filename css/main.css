@@ -62,9 +62,11 @@ hr{
 .content{
     padding-top: 0px;
     margin-top: 0px;
+    padding-right: 15px;
 }
 .subject {
     margin: 15px;
+    margin-right: 20px;
     display: block;
     float: left;
     height: 160px;
@@ -72,7 +74,6 @@ hr{
 }
 .matter{
     padding-left: 15px;
-    padding-right: 15px;
 }
 .subWrapper{
     clear: both;
