@@ -7,6 +7,7 @@ div{
 p{
     padding: 0px 15px;
     line-height: 21px;
+    margin-top: 0px;
 }
 a{
     text-decoration: none;
@@ -37,6 +38,8 @@ li{
     margin-left: 20%;
     margin-right: 20%;
     border-radius: 15px;
+    height: auto;
+    overflow: auto;
 }
 .header{
     background-color: #D3D3D3;
@@ -52,6 +55,14 @@ li{
 .content{
     padding-top: 0px;
     margin-top: 0px;
+}
+.subject{
+    margin: 15px;
+    display: block;
+    float: left;
+}
+.matter{
+    padding-left: 15px;
 }
 #end{
     padding-right: 20px;
