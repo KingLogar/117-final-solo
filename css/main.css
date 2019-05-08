@@ -37,6 +37,9 @@ li{
     padding-top: 30px;
     padding-left: 8px;
 }
+hr{
+    border-top: solid black thin;
+}
 .wrapper{
     border: solid thin black;
     margin-left: 20%;
@@ -60,14 +63,24 @@ li{
     padding-top: 0px;
     margin-top: 0px;
 }
-.subject{
+.subject {
     margin: 15px;
     display: block;
     float: left;
+    height: 160px;
+    width: 160px;
 }
 .matter{
     padding-left: 15px;
     padding-right: 15px;
+}
+.subWrapper{
+    clear: both;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.subhead{
+    text-align: center;
 }
 #end{
     padding-right: 20px;
